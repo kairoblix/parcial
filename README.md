@@ -1,0 +1,2 @@
+# parcial
+parcial datos colombia
